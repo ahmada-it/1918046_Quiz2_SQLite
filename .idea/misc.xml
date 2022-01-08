@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Kuli-ah/Praktikum/Semester 5/Laporan/MP/Quiz-1918046/app/src/main/res/layout/activity_main.xml" value="0.11503623188405797" />
+        <entry key="..\:/Kuli-ah/Praktikum/Semester 5/Laporan/MP/Quiz-1918046/app/src/main/res/layout/activity_main_read.xml" value="0.11503623188405797" />
+        <entry key="..\:/Kuli-ah/Praktikum/Semester 5/Laporan/MP/Quiz-1918046/app/src/main/res/layout/activity_main_updel.xml" value="0.11503623188405797" />
+        <entry key="..\:/Kuli-ah/Praktikum/Semester 5/Laporan/MP/Quiz-1918046/app/src/main/res/layout/custom_list.xml" value="0.11503623188405797" />
+        <entry key="..\:/Kuli-ah/Praktikum/Semester 5/Laporan/MP/tugas7-1918046/app/src/main/res/drawable/ic_book_24.xml" value="0.2203125" />
+        <entry key="..\:/Kuli-ah/Praktikum/Semester 5/Laporan/MP/tugas7-1918046/app/src/main/res/drawable/list_row_bg.xml" value="0.17037037037037037" />
+        <entry key="..\:/Kuli-ah/Praktikum/Semester 5/Laporan/MP/tugas7-1918046/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Kuli-ah/Praktikum/Semester 5/Laporan/MP/tugas7-1918046/app/src/main/res/layout/activity_main_create.xml" value="0.33" />
+        <entry key="..\:/Kuli-ah/Praktikum/Semester 5/Laporan/MP/tugas7-1918046/app/src/main/res/layout/activity_main_read.xml" value="0.33" />
+        <entry key="..\:/Kuli-ah/Praktikum/Semester 5/Laporan/MP/tugas7-1918046/app/src/main/res/layout/activity_main_updel.xml" value="0.33" />
+        <entry key="..\:/Kuli-ah/Praktikum/Semester 5/Laporan/MP/tugas7-1918046/app/src/main/res/layout/custom_list.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/tgsrmh7/app/src/main/res/layout/activity_main_read.xml" value="0.276268115942029" />
+        <entry key="app/src/main/res/drawable/list_row_bg.xml" value="0.30925925925925923" />
+        <entry key="app/src/main/res/drawable/list_row_bg_hover.xml" value="0.30925925925925923" />
+        <entry key="app/src/main/res/drawable/list_row_selector.xml" value="0.30925925925925923" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1752786220871327" />
+        <entry key="app/src/main/res/layout/activity_main_create.xml" value="0.1752786220871327" />
+        <entry key="app/src/main/res/layout/activity_main_read.xml" value="0.1752786220871327" />
+        <entry key="app/src/main/res/layout/activity_main_updel.xml" value="0.1752786220871327" />
+        <entry key="app/src/main/res/layout/custom_list.xml" value="0.1752786220871327" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
